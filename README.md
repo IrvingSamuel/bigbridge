@@ -19,11 +19,6 @@ Este projeto inclui três principais páginas:
 ![Banner](img/about_img.png)  
 ![Favicon](img/favicon.png)
 
-### Galeria de Lutadores
-![Fighter 1](img/gallery/gallery_item_1.png)
-![Fighter 2](img/gallery/gallery_item_2.png)
-![Fighter 3](img/gallery/gallery_item_3.png)
-
 ## 🚀 Começando
 
 Clone o projeto:
